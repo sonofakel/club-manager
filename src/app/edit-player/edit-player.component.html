@@ -9,6 +9,8 @@
 <br>
 
 <label>New Player Description:</label>
-<input [(ngModel)]="selectedPlayer.description">
+<input size="75" [(ngModel)]="selectedPlayer.description">
 
 <button (click)="beginUpdatingPlayer(selectedPlayer)">Update</button>
+<hr>
+<button (click)="beginDeletingPlayer(selectedPlayer)">Delete</button>
