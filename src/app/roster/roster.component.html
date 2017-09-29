@@ -1,3 +1,7 @@
-<p>
-  roster works!
-</p>
+<h2>Marketplace</h2>
+
+<div *ngFor="let player of players | async" (click)="goToDetailPage(player)" class="panel panel-default">
+  <div class="panel-body">
+    <h3><em>{{player.name}}</em> by {{player.position}}</h3>
+  </div>
+</div>
