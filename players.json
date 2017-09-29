@@ -1,0 +1,17 @@
+{ "players": [{
+    "name": "Tom Tom McGee",
+    "position": "Forward",
+    "description": "Mr. McGee started his career under the sea where he was able to hone in on his backstrock. He was trained by dolphins which to his suprise was quite fun. He doesn't know when he left the sea but Mr. McGee has been playing soccer ever since.",
+    "id": "1"
+    }, {
+    "name": "Jenny Smith",
+    "position": "Half Back",
+    "description": "Jenny comes from a long line of lions that originiated in eastern Ukraine. Some say that being raised by lion is better than being raised by wolfs because lions are larger than wolfs. However it is well known that wolfs play better soccer than lions as they has a more cohesive pack mentatlity.",
+    "id": "2"
+      }, {
+    "name": "Barry Goldfrom",
+    "position": "Goal Keeper",
+    "description": "Barry played on UCLA's soccer team for 10 years. Many of the players tried to kick Barry off the team as we was a ball-hog but Barry has a strong personality and wouldn't stand for it. So he just sat on the bench which receiveing student loans to finish school.",
+    "id": "3"
+  }]
+}
