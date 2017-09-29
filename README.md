@@ -37,6 +37,7 @@ export var masterFirebaseConfig = {
   };
 ```
 * _Add `api-keys.ts` to your `.gitignore` file_
+* _Sample data to import into Firebase is located in `players.json` in root_
 
 
 

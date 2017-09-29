@@ -1,0 +1,18 @@
+.hero-text {
+  position: absolute;
+   text-align: center;
+   top: 224px;
+   width: 100%;
+   color: whitesmoke;
+   font-size: 6rem;
+
+}
+.hero-sub {
+  position: absolute;
+   text-align: center;
+   top: 320px;
+   width: 100%;
+   color: whitesmoke;
+   font-size: 4rem;
+
+}
